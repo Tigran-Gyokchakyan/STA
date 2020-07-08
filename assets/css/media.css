@@ -1,0 +1,458 @@
+@media (max-width: 1100px) {
+  button.owl-next {
+    right: 22%;
+  }
+  button.owl-prev {
+    left: 22%;
+  }
+}
+@media (max-width: 1024px) {
+  .link-2 {
+    left: 14%;
+  }
+  .right-side {
+    right: 50% !important;
+  }
+  .overlay-content img {
+    position: absolute;
+    left: 4%;
+    top: 3%;
+    width: 25%;
+  }
+  .about-content {
+    margin-top: 45px;
+  }
+  .main-about {
+    height: auto;
+  }
+  .about-social {
+    position: relative;
+  }
+  .about-content {
+    margin-top: 5px;
+  }
+  .lorem-text {
+    padding-top: 10px;
+  }
+  button.owl-prev {
+    left: 10%;
+  }
+  button.owl-next {
+    right: 10%;
+  }
+  .overlay .closebtn {
+    top: -10px;
+  }
+}
+
+@media (max-width: 768px) {
+  .about {
+    height: auto;
+    height: 85vh;
+  }
+  .text-1,
+  .phone {
+    display: none;
+  }
+  .text-3,
+  .phone-3 {
+    display: none;
+  }
+  .text-4,
+  .phone-4 {
+    display: none;
+  }
+  .image {
+    left: 25%;
+  }
+  .owl-item.medium {
+    margin-top: 0px !important;
+  }
+  .owl-item.big {
+    transform: scale(1) !important;
+  }
+  .owl-stage-outer {
+    height: auto;
+  }
+  .mrb-30 {
+    margin-bottom: 10px;
+  }
+  button.owl-next {
+    position: absolute;
+    bottom: -100px;
+    right: 5%;
+  }
+  button.owl-prev {
+    position: absolute;
+    bottom: -100px;
+    left: 5%;
+  }
+  .link-2 {
+    left: 18%;
+  }
+  h3.text-2 {
+    padding: 0 50px;
+    text-align: center;
+  }
+  .room-box {
+    width: 310px;
+    height: 310px;
+  }
+  .room-box-2 {
+    width: 310px;
+    height: 310px;
+  }
+  .box-1 {
+    padding-left: 0;
+  }
+  .box-2 {
+    padding-left: 0;
+  }
+  .flower a {
+    width: 45%;
+  }
+  .flower-2 a {
+    width: 45%;
+  }
+  .left-side {
+    width: 400px;
+  }
+  .overlay-content ul li {
+    margin-bottom: 20px;
+  }
+  .link-8 {
+    left: 40%;
+  }
+  .left-side p {
+    font-size: 13px;
+    top: 45px;
+    left: 3%;
+  }
+  .overlay .closebtn {
+    top: 0;
+    right: 3%;
+  }
+  .overlay-content img {
+    left: 5%;
+    top: 5%;
+    width: 25%;
+  }
+  .left-side p {
+    font-size: 13px;
+    top: 1%;
+    left: 3%;
+  }
+  .left-side h5 {
+    position: absolute;
+    top: 0%;
+    left: 26%;
+  }
+  .flower h1 {
+    font-size: 30px;
+    margin-bottom: 5px;
+  }
+  .flower-2 h1 {
+    font-size: 30px;
+    margin-bottom: 5px;
+  }
+    .about-social {
+    position: fixed;
+    bottom: 20px;
+    width: 100%;
+    text-align: center;
+        
+    }
+  .main-about {
+    background-color: #f4ede7;
+    height: 100%;
+  }
+  .about-content img {
+    width: 60%;
+  }
+  .about-content h1 {
+    font-size: 25px;
+  }
+  .lorem-1 p {
+    margin-left: 18px;
+    font-size: 12px !important;
+  }
+  .lorem-2 p {
+    margin-right: 18px;
+    font-size: 12px !important;
+  }
+  .lorem-text {
+    padding-top: 0;
+  }
+  .spend {
+    font-size: 10px;
+    margin-top: 5px;
+  }
+}
+
+@media (max-width: 550px) {
+  .social-gall {
+    display: none;
+  }
+  .about-social .link-3, .about-social .link-4{
+      position:relative;
+  }
+  .about-social.link-3::before {
+    left: 3%;
+   }
+  .about-social .link-4::before {
+     left: 1%;
+  }
+  /*html, body {
+    height: 100vh;
+    overflow: hidden;
+  }
+  #main {
+    height: 100%;
+  }*/
+
+  .side-menu {
+    position: absolute;
+    top: 10px;
+}
+
+}
+
+@media (max-width: 425px) {
+  .h-100 {
+    height: 88% !important;
+  }
+
+  .menu_2_list {
+    padding-top: 90px;
+  }
+  .menu_one {
+    display: none;
+  }
+  .menu_2 {
+    display: block;
+  }
+  .menu_2_box h3 {
+    text-align: left;
+    margin-left: 15px;
+    color: #f4ede7;
+    font-size: 22px;
+  }
+
+  .menu_2_box h6 {
+    text-align: left;
+    margin-left: 15px;
+    color: #f4ede7;
+    font-size: 13px;
+  }
+  .overlay-content img {
+    left: 4%;
+    top: 6%;
+    width: 50%;
+  }
+  .link-2 {
+    left: 30%;
+  }
+  .room-box {
+    width: 230px;
+    height: 230px;
+    margin-top: 70px;
+    margin-left: -45px;
+  }
+  .room-box-2 {
+    width: 275px;
+    height: 275px;
+    margin-top: 70px;
+    margin-left: -45px;
+  }
+    .gallery {
+        margin-left: -15px;
+        margin-top: 10px;
+    }
+      .gallery-2 {
+    margin-left: -15px;
+  }
+  .flower h3 {
+    font-size: 20px;
+    margin-bottom: 5px;
+  }
+  .flower-2 h3 {
+    font-size: 20px;
+    margin-bottom: 5px;
+  }
+  .flower p {
+    font-size: 11px;
+    margin-bottom: 10px;
+  }
+  .flower-2 p {
+    font-size: 11px;
+  }
+  .social {
+    display: none;
+  }
+  .arrow-2 img {
+    width: 50%;
+  }
+  .arrow img {
+    width: 50%;
+  }
+  .arrow-3 img {
+    width: 50%;
+  }
+  .arrow-4 img {
+    width: 50%;
+  }
+  .arrow-2 {
+    text-align: center;
+    padding: 5px 0px !important;
+    line-height: 1;
+    position: absolute !important;
+    bottom: 15px !important;
+    left: 5% !important;
+  }
+  .arrow {
+    text-align: center;
+    padding: 5px 0px !important;
+    line-height: 1;
+    position: absolute !important;
+    bottom: 15px !important;
+    right: 5% !important;
+  }
+  .arrow-3 {
+    text-align: center;
+    padding: 5px 0px !important;
+    line-height: 1;
+    position: absolute !important;
+    bottom: 15px !important;
+    left: 5% !important;
+  }
+  .arrow-4 {
+    text-align: center;
+    padding: 5px 0px !important;
+    line-height: 1;
+    position: absolute !important;
+    bottom: 15px !important;
+    right: 5% !important;
+  }
+  .flower a {
+    width: 100%;
+  }
+  .flower-2 a {
+    width: 100%;
+  }
+  .lorem-1,
+  .lorem-2 {
+    width: 100%;
+  }
+  .lorem-1 p {
+    margin-left: 40px;
+    font-size: 9px;
+  }
+  .lorem-2 p {
+    margin-right: 40px;
+    font-size: 9px;
+  }
+  .lorem-2 p span {
+    font-size: 30px;
+    padding: 0 3px 0 0;
+  }
+  .lorem-1 p span {
+    font-size: 30px;
+    padding: 0 3px 0 0;
+  }
+  .about-content {
+    margin-top: 10px;
+  }
+  button.owl-next {
+    width: 60px !important;
+    height: 35px !important;
+    background-size: 45% !important;
+    border-radius: 0 !important;
+  }
+  button.owl-prev {
+    width: 60px !important;
+    height: 35px !important;
+    background-size: 45% !important;
+    border-radius: 0 !important;
+  }
+}
+
+@media (max-width: 375px) {
+  .image {
+    left: 33%;
+  }
+  .link-menu-1 {
+    left: 30%;
+  }
+  .lorem-1 p {
+    margin-left: 25px;
+    font-size: 8px;
+  }
+  .lorem-2 p {
+    margin-right: 25px;
+    font-size: 8px;
+  }
+  .about-content h1 {
+    font-size: 20px;
+  }
+}
+
+@media (max-width: 320px) {
+  .link-2 {
+    left: 35%;
+    font-size: 11px;
+  }
+  .link-1 {
+    font-size: 11px;
+  }
+  .link-menu-1 {
+    left: 33%;
+  }
+  .room-box {
+    width: 220px;
+    height: 220px;
+    margin-top: 34px;
+    margin-left: -37px;
+  }
+  .room-box-2 {
+    width: 220px;
+    height: 220px;
+    margin-top: 34px;
+    margin-left: -37px;
+  }
+  .form_content h1 {
+    font-size: 45px;
+  }
+  button {
+    margin-top: 35px;
+  }
+  .lorem-2 p {
+    margin-right: 10px;
+    margin-left: 10px;
+  }
+  .lorem-1 p {
+    margin-right: 10px;
+    margin-left: 10px;
+  }
+  .spend {
+    text-align: center;
+  }
+}
+
+@media only screen and (orientation: landscape) and (max-height: 730px) {
+
+  button.owl-prev {
+    position: absolute;
+    bottom: -85px;
+  }
+  button.owl-next {
+    position: absolute;
+    bottom: -85px;
+  }
+  .social-gall {
+    position: relative;
+    top: 25px;
+  }
+  .owl-carousel.owl-theme.owl-loaded.owl-drag {
+    margin-top: 20px;
+  }
+}
